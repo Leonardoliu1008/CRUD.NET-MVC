@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# Backup & logs
+*.log
+*.tmp
+
+# Dependências
+packages/
+node_modules/
+
+# Sistema
+Thumbs.db
